@@ -32,7 +32,7 @@ For building and running the application you need:<br>
 
 <h3>Test cases</h3>
 <ul>
-Application has following test cases covering 100% of application
+Application has following test cases covering above 95% of application
   <li>Unit test cases</li>
   <li>Controller test cases</li>
   <li>Integration test cases</li>
@@ -51,7 +51,7 @@ Application has following test cases covering 100% of application
 <li><b>service</b> — to hold our business logic</li>
 <li><b>controller</b> — to listen to the client</li>
 <li><b>enums</b> — to define fixed set of constants to be used application wide</li>
-<li><b>test/</b> - contains unit and integration tests</li>
+<li><b>test</b> - contains unit and integration tests</li>
 
 
 
