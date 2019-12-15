@@ -9,7 +9,7 @@ For building and running the application you would require:<br>
 
 <h3>Running the application</h3>
 <ul>
-<li>Run following command to build and run the application <b>./mvnw clean spring-boot:run</b></li>
+<li>Run following command to build and run the application <b> mvn spring-boot:run</b></li>
 </ul>
 
 <h3>REST Endpoints Documentation</h3>
