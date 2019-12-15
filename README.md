@@ -51,6 +51,9 @@ Application has following test cases covering above 95% of application
 <li><b>controller</b> — to listen to the client</li>
 <li><b>enums</b> — to define fixed set of constants to be used application wide</li>
 <li><b>test</b> - contains unit and integration tests</li>
+<li><b>factory</b> - is responsible for creating different objects</li>
+<li><b>config</b> - contains swagger configurations</li>
+<li><b>compressionstrategy</b> - contains logic for downloadable file format</li>
 
 
 
