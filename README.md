@@ -40,8 +40,7 @@ Application has following test cases covering above 95% of application
 
 <h3>Running test cases and checking coverage</h3>
 <ul>
-<li>Run following command to run unit and integration test cases <b>./mvnw clean test</b></li>
-<li>Run following command to generate test coverage in html format <b>./mvnw clean site</b></li>
+<li>Run following command to run unit,integration test cases and generate test coverage in html format <b>mvn clean test</b></li>
 </ul>
 
 <h3>Layers and packaging of application</h3>
